@@ -25,11 +25,6 @@ body ul {
   padding: 1.5rem 0;
   margin: 0 auto;
 }
-@media (max-width: 425px) {
-  .header {
-    padding: 1.1rem;
-  }
-}
 .header-brand {
   color: #fff;
   font-size: 3rem;
@@ -39,11 +34,6 @@ body ul {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-@media (max-width: 425px) {
-  .header-navbar ul {
-    display: none;
-  }
 }
 .header-navbar ul li {
   margin: 0 1rem;
@@ -61,11 +51,6 @@ body ul {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-@media (max-width: 425px) {
-  .header-social-media ul {
-    display: none;
-  }
 }
 .header-social-media ul li {
   margin: 0 1rem;
@@ -85,11 +70,6 @@ body ul {
   justify-content: space-between;
   padding: 0;
 }
-@media (max-width: 425px) {
-  .gallery {
-    flex-direction: column;
-  }
-}
 .gallery-card {
   width: 31%;
   height: 400px;
@@ -99,12 +79,6 @@ body ul {
   justify-content: center;
   flex-direction: column;
   color: #fff;
-}
-@media (max-width: 425px) {
-  .gallery-card {
-    width: 90%;
-    margin-bottom: 6%;
-  }
 }
 .gallery-card-title {
   font-size: 2rem;
