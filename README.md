@@ -16,3 +16,8 @@ Apredendo Front End
     
   <a href="https://front-gsn69znmm-vitor912.vercel.app/">
   Projeto Galeria
+    
+  <br>
+    
+  <a href="https://star-wars-blue.vercel.app/">
+  Projeto Star Wars
