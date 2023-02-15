@@ -5,15 +5,16 @@
 }
 
 body{
-
-    background-color: rgb(177, 225, 255);
+    background: salmon;    
 }
 
 .container {
     height: 500px;
     width: 360px;
     margin: 100px auto;
-    background-color: #f7f7f7;
+    // background-color: rgba(255, 255, 255, 0.30);
+    background-color: rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(15px);
     border-radius: 20px; 
     box-shadow: 5px 5px 3px rgb(0, 0, 0)
 }    
@@ -26,7 +27,8 @@ h1 {
     font-size: 40px;  
     text-align: center; 
     margin-bottom: 0px;
-    background-color: lightgray;
+    background-color: rgba(211, 211, 211, 0.50);
+    backdrop-filter: blur(55px);
     border-radius: 20px 20px 0 0;
 }
 
@@ -35,6 +37,7 @@ p{
     text-decoration: underline;
     font-weight: bold;
     margin-top: 60px;
+    font-size: 18px;
 }
 
 #counter{    
@@ -49,12 +52,13 @@ p{
         height: 40px;
         width: 40px;
         border-radius: 50%;
-        border: 2px solid lightcoral;
-        background-color: rgb(241, 214, 214);
-        color: lightcoral;
+        border: 2px solid rgba(0, 0, 0, 0.5);
+        background-color: rgba(0, 0, 0, 0.1);
+        color: rgba(0, 0, 0, 0.5);
         font-size: 16pt;
-        font-weight: 600;
-        text-align: center;       
+        // font-weight: 600;
+        text-align: center;
+        font-weight: bold;       
     }
 
     #currentNumber {
