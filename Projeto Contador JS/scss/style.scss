@@ -16,7 +16,8 @@ body{
     background-color: rgba(0, 0, 0, 0.05);
     backdrop-filter: blur(15px);
     border-radius: 20px; 
-    box-shadow: 5px 5px 3px rgb(0, 0, 0)
+    box-shadow: 5px 5px 3px rgb(0, 0, 0);
+    // border-color: black;
 }    
 
 hr {
@@ -66,9 +67,7 @@ p{
         align-items: center;
         margin: 0 20px;
         font-size: 16pt;
-    }
-
-    
+    }    
 }
 
 a {
