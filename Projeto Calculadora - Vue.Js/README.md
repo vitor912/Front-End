@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-projeto-calculadora-4o4rjt5iq-vitor912.vercel.app
+https://projeto-calculadora-4o4rjt5iq-vitor912.vercel.app
 
 Projeto Calculadora é uma aplicação usando FrameWork Vue.Js, construída com uma base de uma calculadora em "JavaScript".
 
