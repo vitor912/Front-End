@@ -7,7 +7,7 @@ https://projeto-calculadora-4o4rjt5iq-vitor912.vercel.app
 
 Projeto Calculadora é uma aplicação usando FrameWork Vue.Js, construída com uma base de uma calculadora em "JavaScript".
 
-A aplicação consiste em um treinamento do FrameWork Vue.Js, usando todo o codigo de uma calculadora em JavaScript e trazendo esse condigo para Vue.Js, usando Vue.js 3 e Vue router para interações entre "components" e "views".
+A aplicação consiste em um treinamento do FrameWork Vue.Js, usando o codigo de uma calculadora feita em JavaScript e trazendo esse condigo para Vue.Js, usando Vue.js 3 (CLI) e Vue router para interações entre "components" e "views".
 
 ## Layout web
 Calculadora com efeito transparente com botões na cor preta, display cinza com numeração branca, fundo também na cor branca. 
