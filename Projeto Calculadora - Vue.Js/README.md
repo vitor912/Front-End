@@ -10,7 +10,7 @@ Projeto Calculadora é uma aplicação usando FrameWork Vue.Js, construída com 
 A aplicação consiste em um treinamento do FrameWork Vue.Js, usando todo o codigo de uma calculadora em JavaScript e trazendo esse condigo para Vue.Js, usando Vue.js 3 e Vue router para interações entre "components" e "views".
 
 ## Layout web
-![Web 1](https://github.com/vitor912/Front-End/blob/main/Projeto%20Calculadora%20-%20Vue.Js/src/assets/1.jpg)   ![Web 2](https://github.com/vitor912/Front-End/blob/main/Projeto%20Calculadora%20-%20Vue.Js/src/assets/2.jpg)
+Calculadora com efeito transparente com botões na cor preta, display cinza com numeração branca, fundo também na cor branca. 
 
 ![Web 3](https://github.com/vitor912/Front-End/blob/main/Projeto%20Calculadora%20-%20Vue.Js/src/assets/ezgif.com-resize.gif)
 
